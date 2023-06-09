@@ -1,0 +1,19 @@
+.vertical-line{
+    display: inline-block;
+    border-left: 1px solid #ccc;
+    margin: 0 10px;
+    height: 125px;
+}
+.g-col-6 {
+    border-left: 1px solid rgb(74, 172, 171);
+    border-bottom: 1px solid rgb(74, 172, 171);
+}
+.grid{
+    display: grid;
+}
+.image{
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

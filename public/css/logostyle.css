@@ -1,0 +1,14 @@
+.navbar-brand{
+    color: rgb(3, 249, 245);
+    font-family: Wild World, sans-serif;
+    font-size: 3rem;   
+}
+.navbar-brand:hover{
+    color:rgb(255, 255, 128);
+}
+
+@font-face {
+    font-family: Wild World;
+    src: url(WILD\ WORLD.otf);
+}
+
